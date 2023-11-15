@@ -1,0 +1,4 @@
+name: MadBagGrab
+version: '${project.version}'
+main: madmaxysoftware.mc.madbaggrab.MadBagGrab
+api-version: '1.20'
